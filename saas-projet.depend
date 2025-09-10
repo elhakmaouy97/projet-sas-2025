@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757501810 source:c:\users\ycode\projetsas\projet-sas-2025\saas-projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
